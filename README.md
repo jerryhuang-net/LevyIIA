@@ -9,7 +9,7 @@ The IIA intends to charge the fee gradually in a 4-years stage, so that hopefull
 Year 1 (since 1 Jan 2018 to 31 Mar 2019)  
 0.04%  
 Year 2 (since 1 Apr 2019 to 31 Mar 2020)  
-0.06  
+0.06%  
 Year 3 (since 1 Apr 2020 to 31 Mar 2021)  
 0.085%  
 1 Apr 2021 and onward  
