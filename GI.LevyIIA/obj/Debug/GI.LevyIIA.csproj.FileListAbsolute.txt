@@ -1,0 +1,5 @@
+C:\Users\hi_co\Source\Repos\LevyIIA\GI.LevyIIA\bin\Debug\GI.LevyIIA.dll
+C:\Users\hi_co\Source\Repos\LevyIIA\GI.LevyIIA\bin\Debug\GI.LevyIIA.pdb
+C:\Users\hi_co\Source\Repos\LevyIIA\GI.LevyIIA\obj\Debug\GI.LevyIIA.csprojResolveAssemblyReference.cache
+C:\Users\hi_co\Source\Repos\LevyIIA\GI.LevyIIA\obj\Debug\GI.LevyIIA.dll
+C:\Users\hi_co\Source\Repos\LevyIIA\GI.LevyIIA\obj\Debug\GI.LevyIIA.pdb

@@ -1,0 +1,9 @@
+C:\Users\hi_co\Source\Repos\LevyIIA\GI.LevyIIA.UnitTest\bin\Debug\GI.LevyIIA.UnitTest.dll
+C:\Users\hi_co\Source\Repos\LevyIIA\GI.LevyIIA.UnitTest\bin\Debug\GI.LevyIIA.UnitTest.pdb
+C:\Users\hi_co\Source\Repos\LevyIIA\GI.LevyIIA.UnitTest\bin\Debug\GI.LevyIIA.dll
+C:\Users\hi_co\Source\Repos\LevyIIA\GI.LevyIIA.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\hi_co\Source\Repos\LevyIIA\GI.LevyIIA.UnitTest\bin\Debug\GI.LevyIIA.pdb
+C:\Users\hi_co\Source\Repos\LevyIIA\GI.LevyIIA.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\hi_co\Source\Repos\LevyIIA\GI.LevyIIA.UnitTest\obj\Debug\GI.LevyIIA.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\hi_co\Source\Repos\LevyIIA\GI.LevyIIA.UnitTest\obj\Debug\GI.LevyIIA.UnitTest.dll
+C:\Users\hi_co\Source\Repos\LevyIIA\GI.LevyIIA.UnitTest\obj\Debug\GI.LevyIIA.UnitTest.pdb

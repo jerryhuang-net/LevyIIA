@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GI.LevyIIA", "GI.LevyIIA\GI.LevyIIA.csproj", "{534DFA94-E117-4BF7-9E71-9ED57D0D317C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GI.LevyIIA.UnitTest", "GI.LevyIIA.UnitTest\GI.LevyIIA.UnitTest.csproj", "{95A11E80-C4E5-47B1-8AF1-DB185AD1C8EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{534DFA94-E117-4BF7-9E71-9ED57D0D317C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{534DFA94-E117-4BF7-9E71-9ED57D0D317C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{534DFA94-E117-4BF7-9E71-9ED57D0D317C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95A11E80-C4E5-47B1-8AF1-DB185AD1C8EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A11E80-C4E5-47B1-8AF1-DB185AD1C8EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A11E80-C4E5-47B1-8AF1-DB185AD1C8EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A11E80-C4E5-47B1-8AF1-DB185AD1C8EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
